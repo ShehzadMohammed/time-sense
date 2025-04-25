@@ -1,2 +1,2 @@
 # time-sense-
-Application to monitor social-media activity. 
+Application to monitor social media activity. 
